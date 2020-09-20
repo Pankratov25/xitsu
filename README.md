@@ -6,3 +6,8 @@
 ## Скриншоты
 ![Иллюстрация к проекту](https://github.com/Pankratov25/xitsu/blob/master/listing.png)
 ![Иллюстрация к проекту](https://github.com/Pankratov25/xitsu/blob/master/output.png)
+## Инструкция к использованию
+- Запустить файл cipher.py;
+- Определиться с тем что вы собираетесь сделать: разшифровать, зашифровать;
+- Следовать указаниям программы
+Программа создавалась на IDE Spyder c Python 3.7    
